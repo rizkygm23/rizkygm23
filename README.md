@@ -3,7 +3,7 @@
 <!--
 **rizkygm23/rizkygm23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://camo.githubusercontent.com/15351b9d7f5483b9e88bf0ed88dad57b7710b7f4698bfdcda5c7cecbd560d15a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d616c66696e70726174616d6161" alt="alfinpratamaa" style="max-width: 100%;">
+[![trophy](https://github-profile-trophy.vercel.app/?rizkygm23)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
